@@ -2,6 +2,9 @@
   "version": 2,
   "name": "delhiboneandjoints",
   "builds": [
-    { "src": "Dockerfile", "use": "@vercel/docker" }
+    { "src": "index.php", "use": "@vercel/php" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.php" }
   ]
 }
