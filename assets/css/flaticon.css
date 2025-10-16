@@ -1,0 +1,170 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf") format("truetype"),
+url("../fonts/flaticon.woff") format("woff"),
+url("../fonts/flaticon.woff2") format("woff2"),
+url("../fonts/flaticon.eot") format("embedded-opentype"),
+url("../fonts/flaticon.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-oil-spill:before {
+    content: "\f101";
+}
+.flaticon-cage:before {
+    content: "\f102";
+}
+.flaticon-cage-1:before {
+    content: "\f103";
+}
+.flaticon-chained:before {
+    content: "\f104";
+}
+.flaticon-overfishing:before {
+    content: "\f105";
+}
+.flaticon-grassland:before {
+    content: "\f106";
+}
+.flaticon-sewer:before {
+    content: "\f107";
+}
+.flaticon-world-animal-day:before {
+    content: "\f108";
+}
+.flaticon-shark:before {
+    content: "\f109";
+}
+.flaticon-no-fireworks:before {
+    content: "\f10a";
+}
+.flaticon-animal-shelter:before {
+    content: "\f10b";
+}
+.flaticon-charity:before {
+    content: "\f10c";
+}
+.flaticon-playground:before {
+    content: "\f10d";
+}
+.flaticon-experiment:before {
+    content: "\f10e";
+}
+.flaticon-whip:before {
+    content: "\f10f";
+}
+.flaticon-bird:before {
+    content: "\f110";
+}
+.flaticon-no-plastic-bags:before {
+    content: "\f111";
+}
+.flaticon-trap:before {
+    content: "\f112";
+}
+.flaticon-circus:before {
+    content: "\f113";
+}
+.flaticon-boots:before {
+    content: "\f114";
+}
+.flaticon-think:before {
+    content: "\f115";
+}
+.flaticon-milking:before {
+    content: "\f116";
+}
+.flaticon-animal-care:before {
+    content: "\f117";
+}
+.flaticon-no-hunting:before {
+    content: "\f118";
+}
+.flaticon-animal-shelter-1:before {
+    content: "\f119";
+}
+.flaticon-forest:before {
+    content: "\f11a";
+}
+.flaticon-pollution:before {
+    content: "\f11b";
+}
+.flaticon-world-animal-day-1:before {
+    content: "\f11c";
+}
+.flaticon-protect:before {
+    content: "\f11d";
+}
+.flaticon-zoo:before {
+    content: "\f11e";
+}
+.flaticon-red-data:before {
+    content: "\f11f";
+}
+.flaticon-love:before {
+    content: "\f120";
+}
+.flaticon-hunting:before {
+    content: "\f121";
+}
+.flaticon-no-horn:before {
+    content: "\f122";
+}
+.flaticon-bullet:before {
+    content: "\f123";
+}
+.flaticon-flag:before {
+    content: "\f124";
+}
+.flaticon-sustainable:before {
+    content: "\f125";
+}
+.flaticon-melting:before {
+    content: "\f126";
+}
+.flaticon-badge:before {
+    content: "\f127";
+}
+.flaticon-coral:before {
+    content: "\f128";
+}
+.flaticon-flood:before {
+    content: "\f129";
+}
+.flaticon-drought:before {
+    content: "\f12a";
+}
+.flaticon-deforest:before {
+    content: "\f12b";
+}
+.flaticon-no-meat:before {
+    content: "\f12c";
+}
+.flaticon-placeholder:before {
+    content: "\f12d";
+}
+.flaticon-no-leather:before {
+    content: "\f12e";
+}
+.flaticon-whale:before {
+    content: "\f12f";
+}
+.flaticon-bear:before {
+    content: "\f130";
+}
+.flaticon-tshirt:before {
+    content: "\f131";
+}
+.flaticon-no-hunting-1:before {
+    content: "\f132";
+}
